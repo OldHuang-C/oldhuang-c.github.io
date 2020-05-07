@@ -27,7 +27,7 @@
 	left: 0;
 	line-height: 0;
 	position: fixed;
-	transform: translateY(3px);
+	transform: translateY(0px);
 	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
 	z-index: 1;
 }
@@ -86,8 +86,8 @@
 	color: #aaa;
 	opacity: 0;
 	position: absolute;
-	right: -10px;
-	top: 70px;
+	right: 325px;
+	top: 120px;
 	transition: opacity 1s;
 }
 
