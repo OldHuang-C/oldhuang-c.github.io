@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>计算机组成原理 - 标签 - 黄家豪的博客</title>
+        <link>https://oldhuang-c.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/</link>
+        <description>计算机组成原理 - 标签 - 黄家豪的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1204692132@qq.com (黄家豪)</managingEditor>
+            <webMaster>1204692132@qq.com (黄家豪)</webMaster><lastBuildDate>Sun, 01 Mar 2020 00:00:01 &#43;0800</lastBuildDate><atom:link href="https://oldhuang-c.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/" rel="self" type="application/rss+xml" /><item>
+    <title>《计算机组成原理》导学</title>
+    <link>https://oldhuang-c.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%AF%BC%E5%AD%A6/</link>
+    <pubDate>Sun, 01 Mar 2020 00:00:01 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://oldhuang-c.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%AF%BC%E5%AD%A6/</guid>
+    <description><![CDATA[《计算机组成原理》是电子信息工程专业大二下学期的一门核心专业基础课。它的主要内容：介绍运算器、控制器、存储器的结构、工作原理、设计方法及互连]]></description>
+</item></channel>
+</rss>
