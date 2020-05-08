@@ -12,13 +12,6 @@
     <guid>http://example.org/py17_python%E7%BB%84%E5%90%88%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</guid>
     <description><![CDATA[之前写了一篇文章是Python基本数据类型，主要记录了python的整数类型、浮点数类型、负数类型和常用的数值运算函数。除了基本类型，pyt]]></description>
 </item><item>
-    <title>message board</title>
-    <link>http://example.org/message-board/</link>
-    <pubDate>Thu, 07 May 2020 15:58:26 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>http://example.org/message-board/</guid>
-    <description><![CDATA[动态与留言专区 目前使用的是Gravatar 作为评论列表头像。 请自行登录或注册Gravatar，然后修改自己的头像。 评论的时候，留下在Grav]]></description>
-</item><item>
     <title>函数递归思维</title>
     <link>http://example.org/py16_%E5%87%BD%E6%95%B0%E9%80%92%E5%BD%92/</link>
     <pubDate>Thu, 07 May 2020 00:00:00 &#43;0800</pubDate>
@@ -74,5 +67,12 @@
     <author>作者</author>
     <guid>http://example.org/py9_time%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
     <description><![CDATA[终于学到time库了，我之前学Linux时已经吃透了，所以学习python的time库毫无压力。无非是复习之前的知识而已。但博文还是要写的，]]></description>
+</item><item>
+    <title>Python3 字符串</title>
+    <link>http://example.org/py8_python3-%E5%AD%97%E7%AC%A6%E4%B8%B2/</link>
+    <pubDate>Wed, 29 Apr 2020 00:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/py8_python3-%E5%AD%97%E7%AC%A6%E4%B8%B2/</guid>
+    <description><![CDATA[字符串 字符串是 Python 中最常用的数据类型。是由0个或多个字符组成的有序字符序列，我们可以使用引号( ' 或 &quot; )来创建单行字符串，由一对三单引号或三双引]]></description>
 </item></channel>
 </rss>
