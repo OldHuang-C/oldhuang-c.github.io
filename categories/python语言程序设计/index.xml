@@ -4,7 +4,21 @@
         <link>http://example.org/categories/python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/</link>
         <description>Python语言程序设计 - 分类 - 黄家豪的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1204692132@qq.com (黄家豪)</managingEditor>
-            <webMaster>1204692132@qq.com (黄家豪)</webMaster><lastBuildDate>Thu, 14 May 2020 00:00:00 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>1204692132@qq.com (黄家豪)</webMaster><lastBuildDate>Sat, 16 May 2020 00:00:00 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/" rel="self" type="application/rss+xml" /><item>
+    <title>Python 程序设计思维</title>
+    <link>http://example.org/py27_python-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%80%9D%E7%BB%B4/</link>
+    <pubDate>Sat, 16 May 2020 00:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/py27_python-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%80%9D%E7%BB%B4/</guid>
+    <description><![CDATA[自顶向下 和 自底向上 自顶向下（设计） 解决复杂问题的有效方法 将一个总问题表达为若干个小问题组成的形式 使用同样方法进一步分解小问题 直至，小问题可以]]></description>
+</item><item>
+    <title>OS库</title>
+    <link>http://example.org/py25_os%E5%BA%93/</link>
+    <pubDate>Fri, 15 May 2020 00:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/py25_os%E5%BA%93/</guid>
+    <description><![CDATA[OS库是Python标准库，包含几百个函数。OS模块提供了非常丰富的方法用来处理文件和目录。 常用的几个函数 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17]]></description>
+</item><item>
     <title>文件的使用</title>
     <link>http://example.org/py26_%E6%96%87%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
     <pubDate>Thu, 14 May 2020 00:00:00 &#43;0800</pubDate>
@@ -60,19 +74,5 @@
     <author>作者</author>
     <guid>http://example.org/py16_%E5%87%BD%E6%95%B0%E9%80%92%E5%BD%92/</guid>
     <description><![CDATA[编程语言中，函数直接或间接调用函数本身，则该函数称为递归函数。它的定义是这样写的：一种计算过程，如果其中每一步都要用到前一步或前几步的结果，]]></description>
-</item><item>
-    <title>七段数码管显示当前日期</title>
-    <link>http://example.org/py15_%E4%B8%83%E6%AE%B5%E6%95%B0%E7%A0%81%E7%AE%A1%E6%98%BE%E7%A4%BA%E5%BD%93%E5%89%8D%E6%97%A5%E6%9C%9F/</link>
-    <pubDate>Wed, 06 May 2020 00:00:00 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>http://example.org/py15_%E4%B8%83%E6%AE%B5%E6%95%B0%E7%A0%81%E7%AE%A1%E6%98%BE%E7%A4%BA%E5%BD%93%E5%89%8D%E6%97%A5%E6%9C%9F/</guid>
-    <description><![CDATA[作为电子信息工程的一名学生，七段数码管可以说是很常见的了。七段数码管通常用来显示时间。今天就利用七段数码管的例子要巩固刚刚所学的函数使用方法]]></description>
-</item><item>
-    <title>Python3 函数</title>
-    <link>http://example.org/py14_python3-%E5%87%BD%E6%95%B0/</link>
-    <pubDate>Tue, 05 May 2020 00:00:00 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>http://example.org/py14_python3-%E5%87%BD%E6%95%B0/</guid>
-    <description><![CDATA[函数是组织好的，可重复使用的，用来实现单一，或相关联功能的代码段。函数能提高应用的模块性，和代码的重复利用率。 定义一个函数 ~函数代码块以 def 关]]></description>
 </item></channel>
 </rss>
